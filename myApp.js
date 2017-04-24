@@ -22,17 +22,16 @@ myApp.run = function()
 
 
     
-    myApp.chart01 = new histograma();
+  /*  myApp.chart01 = new histograma();
     myApp.chart01.run("#chart01", myApp.dado1H);
 
 
-    /*myApp.chart02 = new histograma();
+    myApp.chart02 = new histograma();
     myApp.chart01.run("#chart02", myApp.dado2H);
 */
-/*
-    myApp.chart01 = new scatterplot();
+    myApp.chart01 = new scatterPlot();
     myApp.chart01.run("#chart01", myApp.dado1S);
-   */
+   
 }
 
 
