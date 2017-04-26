@@ -1,11 +1,62 @@
-{
-	"research":[
-		{ano:1900, valor:29},
-		{ano:1901, valor:32},
-		{ano:1902, valor:40}
-
-
-
-	]
-
+	{
+   "Empresa A":[
+      {
+         "funcionario":1201,
+         "setor":"TI"
+      },
+      {
+         "funcionario":1202,
+         "setor":"GP"
+      },
+      {
+         "funcionario":1203,
+         "setor":"GP"
+      },
+      {
+         "funcionario":1204,
+         "setor":"Comercial"
+      },
+      {
+         "funcionario":1206,
+         "setor":"GP"
+      },
+      {
+         "funcionario":1205,
+         "setor":"Executivo"
+      },
+      {
+         "funcionario":1207,
+         "setor":"TI"
+      }
+   ],
+   "Empresa B":[
+      {
+         "funcionario":1201,
+         "setor":"TI"
+      },
+      {
+         "funcionario":1202,
+         "setor":"GP"
+      },
+      {
+         "funcionario":1203,
+         "setor":"TI"
+      },
+      {
+         "funcionario":1204,
+         "setor":"Comercial"
+      },
+      {
+         "funcionario":1206,
+         "setor":"GP"
+      },
+      {
+         "funcionario":1205,
+         "setor":"Comercial"
+      },
+      {
+         "funcionario":1207,
+         "setor":"TI"
+      }
+   ]
 }

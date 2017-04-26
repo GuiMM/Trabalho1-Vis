@@ -3,10 +3,16 @@
     font-size: 12px;
     color: darkgrey;
 }
-#chart01, #chart02{
-    display: inline-block
+#chart01, #chart02, #chart03{
+    
+    text-align: center;
 }
 .zoom{
     fill: none;
     pointer-events: all;
+}
+
+.line {
+  fill: none;
+  
 }
